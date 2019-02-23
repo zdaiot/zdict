@@ -13,8 +13,8 @@
 - Pyqt
 - tencentcloud-sdk-python(pip install tencentcloud-sdk-python)
 
-## why？
-因为
+## 运行
+安装上述依赖后，执行`python zdict.py`即可
 
 ## 亮点：
 - 从pdf中复制出来一串文字时自动去掉换行符
